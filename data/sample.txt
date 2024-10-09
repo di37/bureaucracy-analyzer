@@ -1,0 +1,27 @@
+finance_example = {
+    "Approval Levels for Travel Requests": "3 levels (department head, finance manager, CFO)",
+    "Average Time for Travel Request Approval": "10 days",
+    "Frequency of Delays in Travel Approvals": "Yes, often due to missing receipts or incomplete itineraries",
+    "Documents Required for Travel Request (Digital or Paper-Based)": "Mixture of digital forms and paper receipts",
+    "Number of Steps Involved in Item Purchase": "6 steps",
+    "Frequency of Resubmission Due to Missing Documents": "About 30% of the time",
+    "Purchasing Process (Manual or Automated)": "Mostly manual with some digital elements",
+    "Time from Request Submission to Item Purchase Completion": "20-25 days",
+    "Delays Due to Miscommunication or Lack of Information": "Yes, frequently due to unclear specifications or budget uncertainties",
+    "Opportunities for Streamlining Travel or Purchasing Process": "Yes, potential for full digitization and automation of approvals",
+    "Coordination Issues with Other Departments for Travel/Purchases": "Yes, often delays with HR for travel policy compliance and IT for tech purchases"
+}
+
+hr_example = {
+    How many approval levels are required for posting a new job position? Example Answers: 3 levels (department head, HR manager, dean).
+    How long does it typically take to approve a new job posting? Example Answers: 7-10 days.
+    Are job postings often delayed due to missing information or approvals? Example Answers: Yes, frequently due to incomplete forms.
+    How many steps are involved from candidate selection to final approval? Example Answers: 5 steps.
+    How often do you receive incomplete applications that delay the hiring process? Example Answers: About 30% of the time (i.e., from 10 applications, 3 usually incomplete).
+    Is there a system in place to provide real-time updates to applicants? Example Answers: No, updates are communicated manually.
+    Are background checks and reference verifications automated or manual? Example Answers: Manual.
+    How often are hiring decisions delayed due to unavailability of decision-makers? Example Answers: About 40% of the time.
+    Could any steps in the hiring process be automated to reduce manual work? Example Answers: Yes, candidate screening and document verification.
+    How often do candidates withdraw due to delays in the hiring process? Example Answers: 15% of the time.
+    Are there any other departments involved in the hiring approvals that are difficult to coordinate with? Example Answers: Yes, finance department for budget confirmation.
+}
