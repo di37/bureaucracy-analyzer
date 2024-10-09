@@ -4,6 +4,11 @@
 
 The Bureaucracy Analyzer is a Streamlit application designed to assist users in analyzing different departments within an organization. It allows users to interactively respond to questions posed by each department and then generates an analysis based on those responses.
 
+## Acknowledgements
+
+- Special thanks to Dr.Fady AlNajjar - Head of AI at UAE University for the idea of this application.
+- This README file is generated using: https://huggingface.co/spaces/yasserrmd/ReadMeForge developed by Mohamed Yasser - Senior Solutions Architect at Sharjah Muncipality.
+
 ## Features
 
 1. **Department Selection**: Users can select between the Human Resources (HR) and Finance departments.
